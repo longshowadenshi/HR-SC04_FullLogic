@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name R)(type KiCad)(uri "C:/Users/hplon/OneDrive/デスクトップ/New folder/kicad/coil/R.pretty")(options "")(descr ""))
+  (lib (name NE555)(type KiCad)(uri C:/Users/hplon/Downloads/NE555)(options "")(descr ""))
+  (lib (name C)(type KiCad)(uri "C:/Users/hplon/OneDrive/デスクトップ/New folder/kicad/EthernetShield/C.pretty")(options "")(descr ""))
+  (lib (name cn_connector)(type KiCad)(uri "C:/Users/hplon/OneDrive/デスクトップ/New folder/kicad/EthernetShield/cn_connector.pretty")(options "")(descr ""))
+  (lib (name Diode_custom)(type KiCad)(uri "C:/Users/hplon/OneDrive/デスクトップ/New folder/kicad/EthernetShield/Diode_custom.pretty")(options "")(descr ""))
+  (lib (name C_1608)(type KiCad)(uri "C:/Users/hplon/OneDrive/デスクトップ/New folder/kicad/EthernetShield/C_1608.pretty")(options "")(descr ""))
+  (lib (name Led-OS)(type KiCad)(uri "C:/Users/hplon/OneDrive/デスクトップ/New folder/kicad/coil/Led-OS.pretty")(options "")(descr ""))
+  (lib (name mj-179p)(type KiCad)(uri "C:/Users/hplon/OneDrive/デスクトップ/New folder/kicad/coil/mj-179p.pretty")(options "")(descr ""))
+)
